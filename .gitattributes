@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *.ipynb filter=lfs diff=lfs merge=lfs -text
+=======
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 776880858b93f0af1694f8049095fc27cdf24872
